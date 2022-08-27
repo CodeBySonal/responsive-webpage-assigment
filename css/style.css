@@ -1,0 +1,79 @@
+.header-container {
+    display: flex;
+}
+
+.navbar-nav {
+    margin-left: 10vw;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+.navbar-brand {
+    width: 10vw;
+    height: 15vh;
+    margin-left: 10vw;
+}
+
+.navbar-nav a {
+    padding: 3px 7px;
+}
+
+#gift-card,
+#book-table {
+    color: white;
+    background-color: #0785ec;
+}
+
+#gift-card:hover,
+#book-table:hover {
+    color: #ecd507;
+    background-color: white;
+}
+
+.navbar-nav a:hover {
+    color: black;
+    border-bottom: 2px solid #252321;
+}
+
+body {
+    font-family: 'Supermercado One', cursive;
+}
+
+/* News Section starts*/
+.img-fluid {
+    max-width: 250px;
+    height: 200px;
+}
+
+#news div {
+    padding: 0.5em;
+    background-color: white;
+    box-shadow: 5px 5px 20px blueviolet;
+    text-align: center;
+    margin: auto;
+
+}
+
+/*News  section ends Here*/
+
+/*Footer Section starts here */
+
+.footer-img {
+    padding-left: 8.5em;
+    margin-bottom: 4em;
+}
+
+.footer-container {
+    background-color: black;
+    color: white;
+}
+
+.social-links a {
+    padding: 0.5em;
+    color: white;
+    font-size: 3em;
+}
+
+
+
+/*Footer Section ends here */
